@@ -1,5 +1,5 @@
 # CISC282-Web-Development
-Project for Implementing websites
+Project for Website Implementation
 
 Programming Environment
 --------------------------
